@@ -24,6 +24,12 @@ const projects = [
         description: "A productivity app designed to make something your daily habit.",
         url: "https://hellohabit.netlify.app/",
         icon: "fa-bullseye"
+    },
+    {
+        title: "Hello-Life-Os",
+        description: "A step to track your own life and be productivity.",
+        url: "https://hellohabit.netlify.app/",
+        icon: "fa-chart-line"
     }
 ];
 
