@@ -18,6 +18,12 @@ const projects = [
         description: "A productivity app designed to help you stay in the zone.",
         url: "https://hellofocus.netlify.app/",
         icon: "fa-brain"
+    },
+    {
+        title: "FocusFlow",
+        description: "A productivity app designed to help you stay in the zone.",
+        url: "https://hellofocus.netlify.app/",
+        icon: "fa-bullseye"
     }
 ];
 
