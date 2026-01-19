@@ -28,7 +28,7 @@ const projects = [
     {
         title: "Hello-Life-Os",
         description: "A step to track your own life and be productivity.",
-        url: "https://hellohabit.netlify.app/",
+        url: "https://hellolifeos.netlify.app/",
         icon: "fa-chart-line"
     }
 ];
