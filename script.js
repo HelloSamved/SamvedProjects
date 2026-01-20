@@ -30,6 +30,11 @@ const projects = [
         description: "A step to track your own life and be productivity.",
         url: "https://hellolifeos.netlify.app/",
         icon: "fa-chart-line"
+    },
+    {
+        title: "Aerosense",
+        description: "My IGEM Proposal",
+        url: "https://helloaerosense.netlify.app/"
     }
 ];
 
